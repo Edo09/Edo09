@@ -7,10 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [Paladins Portal App](https://play.google.com/store/apps/details?id=com.edo09.paladinsportal)
+
+- 🌱 I’m currently learning **.NET Framework**
+
+- 📫 How to reach me **omareogm09@gmail.com**
+
+- ⚡ Fun fact **Did you know that Honey never Spoils??**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edwin-omar-garcia-mendez-124abb273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-omar-garcia-mendez-124abb273" height="30" width="40" /></a>
 <a href="https://codesandbox.com/edo09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="edo09" height="30" width="40" /></a>
+<a href="https://discord.gg/Light#0073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Light#0073" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edo09&show_icons=true&locale=en&layout=compact" alt="edo09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edo09&show_icons=true&locale=en" alt="edo09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edo09&" alt="edo09" /></p>
