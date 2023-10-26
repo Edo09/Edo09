@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">I bring a passion for clean code and a commitment to delivering high-quality software solutions. I thrive in collaborative team environments and excel at turning ideas into functional applications.</h3>
+<h3 align="center">I bring a passion for clean code and a commitment to delivering high-quality software solutions. Thriving in collaborative team environments, I excel at turning ideas into functional applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edo09&label=Profile%20views&color=0e75b6&style=flat" alt="edo09" /> </p>
 
