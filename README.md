@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">Experienced software developer proficient in PHP, ReactJS, and Flutter with a record of creating dynamic and user-friendly web and mobile applications. Skilled in full-stack development, I bring a passion for clean code and a commitment to delivering high-quality software solutions. With a keen eye for detail and a problem-solving mindset, I thrive in collaborative team environments and excel at turning complex ideas into elegant, functional applications.</h3>
+<h3 align="center">Experienced software developer proficient in PHP, ReactJS, and Flutter with a record of creating dynamic and user-friendly web and mobile applications. Skilled in full-stack development, I bring a passion for clean code and a commitment to delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edo09&label=Profile%20views&color=0e75b6&style=flat" alt="edo09" /> </p>
 
